@@ -1,0 +1,34 @@
+.App {
+  text-align: justify;
+   padding: 2rem ;
+   margin-left: 10%;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font: 1em sans-serif;
+  
+}
+
+#root{
+  background-color: whitesmoke;
+   
+}
+.container{
+  text-align: center;
+  border-color: #000000;
+  color: white;
+  background-color: rgb(6, 3, 0);
+  padding: 1rem;
+  
+  
+}
+.body{
+  text-align: center;
+  width: 100%;
+  padding: auto;
+  
+}
+.Delete{
+  background-color: red;
+  max-height: min-content;
+  font-size:xx-small;
+  border-radius: 100%;
+}
